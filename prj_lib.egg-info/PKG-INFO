@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: prj_lib
+Version: 0.1.0
+Summary: It's a package to build the directories in a project structure.
+Author-email: Leonardo <lcds.gru@gmail.com>
+License: Proprietary
+Project-URL: Homepage, https://github.com/lcds2019/prj_lib
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# PRJ lib
+
+It's a package to build the directories in a project structure. 
